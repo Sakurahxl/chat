@@ -1,13 +1,13 @@
 # my-chat
 
-## Project setup
+## 项目初始化
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 项目启动
 ```
-npm run serve
+electron:serve
 ```
 
 ### Compiles and minifies for production
