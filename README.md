@@ -16,8 +16,8 @@
 消息接收  
 ![https://github.com/Sakurahxl/chat/blob/master/photo/%E5%9B%BE%E7%89%874.png]  
 好友对话  
-![https://github.com/Sakurahxl/chat/blob/master/photo/%E5%9B%BE%E7%89%875.png]  
-好友申请  
+![https://github.com/Sakurahxl/chat/blob/master/photo/%E5%9B%BE%E7%89%875.png]               
+好友申请               
 ![https://github.com/Sakurahxl/chat/blob/master/photo/%E5%9B%BE%E7%89%876.png]  
 历史记录  
 ![https://github.com/Sakurahxl/chat/blob/master/photo/%E5%9B%BE%E7%89%877.png]  
